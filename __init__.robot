@@ -1,0 +1,2 @@
+*** Settings ***
+resource    blueriq.resource
